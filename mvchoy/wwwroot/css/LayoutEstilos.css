@@ -1,0 +1,7 @@
+﻿/*para cammbiar el color cuando pase mouse*/
+.nav-link-custom:hover {
+    color: yellowgreen;
+    background-color: #8c9297;
+}
+
+
